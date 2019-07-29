@@ -84,22 +84,22 @@
     
     .bradley-shape::after {
         background-color: #FF4E50;
-        background-image: url('/images/Shape128.png');
+        background-image: url('../../images/Shape128.png');
     }
     
     .lucas-shape::after {
         background-color: #FFA507;
-        background-image: url('/images/Shape155.png');
+        background-image: url('../../images/Shape155.png');
     }
     
     .heather-shape::after {
         background-color: #1CD7AD;
-        background-image: url('/images/Shape153.png');
+        background-image: url('../../images/Shape153.png');
     }
     
     .hunter-shape::after {
         background-color: #4E73DB;
-        background-image: url('/images/Shape170.png');
+        background-image: url('../../images/Shape170.png');
     }
     
     @media screen and (min-width: 768px) {

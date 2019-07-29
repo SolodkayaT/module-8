@@ -16,7 +16,7 @@
 }
 
 .banner {
-    background-image: url('/images/VectorSmart.png');
+    background-image: url('../../images/VectorSmart.png');
     width: 100%;
     background-repeat: no-repeat;
     color: var( --header-text-color);
