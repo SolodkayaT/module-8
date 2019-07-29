@@ -17,6 +17,7 @@
 
 .banner {
     background-image: url('/images/VectorSmart.png');
+    width: 100%;
     background-repeat: no-repeat;
     color: var( --header-text-color);
     font-family: var(--main-font-family);
@@ -24,7 +25,6 @@
     margin-bottom: 70px;
     background-position: center;
     position: relative;
-    width: 100%;
 }
 
 .overlay {
