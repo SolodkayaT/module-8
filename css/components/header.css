@@ -149,8 +149,9 @@
         padding: 30px 35px 0 35px;
     }
     .banner-title {
-        font-size: 50px;
+        font-size: 52px;
         margin-bottom: 40px;
+        line-height: 72px;
     }
     .banner-description {
         font-size: 24px;

@@ -28,6 +28,20 @@
         font-family: var(--secondary-font-family);
     }
     
+    .partner-name {
+        color: #333333;
+        font-family: var(--main-font-family);
+        font-weight: var(--main-font-weight);
+        margin-bottom: 10px;
+    }
+    
+    .parner-hobbies {
+        color: #666666;
+        font-size: 14px;
+        font-family: var(--secondary-font-family);
+        line-height: 18px;
+    }
+    
     .partner-list li:last-child {
         margin-bottom: 40px;
     }
