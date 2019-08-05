@@ -1,10 +1,5 @@
 /*MOBILE*/
 
-.header-section,
-.banner {
-    min-width: 320px;
-}
-
 .logo-tablet-desctop {
     display: none;
 }
@@ -48,8 +43,6 @@
 .banner-title,
 .banner-description {
     text-align: center;
-    position: relative;
-    z-index: 2;
     font-family: var(--main-font-family);
     font-weight: var(--main-font-weight);
 }
@@ -69,7 +62,12 @@
     text-align: center;
     padding-bottom: 135px;
     position: relative;
-    z-index: 2;
+    z-index: 1;
+}
+
+.banner-text {
+    position: relative;
+    z-index: 1;
 }
 
 .find-partner-btn a {
@@ -101,8 +99,6 @@
     text-align: center;
     padding-top: 160px;
     margin-bottom: 40px;
-    position: relative;
-    z-index: 2;
 }
 
 .signup button {
